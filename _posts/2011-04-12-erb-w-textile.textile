@@ -1,0 +1,7 @@
+---
+layout: default
+title: Czy jest potrzeba zagnieżdzania ruby w textile?
+---
+h2. Ruby w textile?
+
+Jak przepuścić przez jekylla textile tak, aby rozumiał wstawki w ruby? Tak na serio to jedyne sensowne zastosowanie tego jakie widzę, to do generowania linków. Normalnie większość takich rzeczy powinna być w layoucie. W treści posta to tylko linki. I tyle
