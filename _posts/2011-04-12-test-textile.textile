@@ -10,8 +10,8 @@ h3. Wady i zalety textile
 
   * Nie bardzo lubię jak coś mi miesza w tekście, ale nic to
   * Zasadniczo składanie rzeczywiscie sprawia, że da się czytać źródło w textile jak normalny plik
-  	** bo to trochę normalny plik przypomina
-  	** wcięcia i tak dalej
+  ** bo to trochę normalny plik przypomina
+  ** wcięcia i tak dalej
   * Brak syntaxu w vimie. Ale to chyba nie problem, da się zrobić
 
 Ok. To by było na razie na tyle
