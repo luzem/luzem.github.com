@@ -1,0 +1,8 @@
+---
+title: A teraz po drobnych zmianach w configu
+---
+OK. Dodałem do configu domyślny layout. Może zadziała. Druga rzecz, to określenie rozszerzeń dla redclotha (żeby .txt traktował)
+
+Aha. Chcemy jeszcze sprawdzić czy to czyta liquid {{ page.title }}
+
+I zobaczymy.

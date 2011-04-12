@@ -1,1 +1,4 @@
 permalink: /:title.html
+layout: default
+redcloth: 
+  extensions: ['txt', 'textile']
