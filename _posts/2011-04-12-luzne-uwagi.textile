@@ -1,0 +1,16 @@
+---
+title: Luźne uwagi na temat jekylla
+---
+h2. Podsumowując krótką zabawę z jekyllem
+
+Tak naprawdę bardzo mi się to podoba. Owszem, layouty wygodniej tworzy mi się w hamlu, ale to nie problem. Cykl *tworzenia treści* skraca się znacznie. A o to w tym wszystkim przecież chodzi. Także publikacja na _hubgicie_ jest extra.
+
+Zastanawiam się, czy gdzie indziej nie zrobić tak samo. Wystarczy na serwerze dodać odpowiednie hooki do gita, żeby po commicie uruchamiał jekylla i wsio.
+
+h2. Nanoc a jekyll
+
+*Nanoc* na pewno daje większe możliwości rozbudowy. W *nanocu* mogę podpiąć hamla do layoutół i textile do contentu. I tak samo śmiga. Mogę przecież dodać też odpowiednie thooki do gita lokalnie żeby to najpierw kompilował przed commitem, i żeby commitował tylko treść. Więc obsługa byłaby tak samo szybka.
+
+h2. Ogólnie
+
+Wciąż nei wiem, czy jekyll czy nanoc. Pewnie wyjdzie w praniu, gdy będę chciał zrobić coś trochę bardziej skomplikowanego. Ale pożyjemy zobaczymy. Na razie *duży plus* dla jekylla i nanoca razem. Super sprawa.
