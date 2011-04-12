@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Luźne uwagi na temat jekylla
 ---
 h2. Podsumowując krótką zabawę z jekyllem
@@ -6,6 +7,8 @@ h2. Podsumowując krótką zabawę z jekyllem
 Tak naprawdę bardzo mi się to podoba. Owszem, layouty wygodniej tworzy mi się w hamlu, ale to nie problem. Cykl *tworzenia treści* skraca się znacznie. A o to w tym wszystkim przecież chodzi. Także publikacja na _hubgicie_ jest extra.
 
 Zastanawiam się, czy gdzie indziej nie zrobić tak samo. Wystarczy na serwerze dodać odpowiednie hooki do gita, żeby po commicie uruchamiał jekylla i wsio.
+
+Jedyne co trochę mnie drażnie w jekyllu, to to, że _nie łyka_ domyślnego layoutu sam z siebie. Trzeba zawsze podawać layout (nawet jak jest do default)
 
 h2. Nanoc a jekyll
 
