@@ -17,4 +17,6 @@ h3. Wady i zalety textile
 Ok. To by było na razie na tyle
 
 h3. Wow Textile z pluginem do składni jest very funny
+
 Wgrałem sobie plugin ze składnią do textile. Chyba staje się to moim ulubionym filtrem robiącym HTML. Podsumowując. Do layoutów na razie chyba HAML a do contentu *textile*. 
+Trzeba pamiętać o odstępach. Tzn. Twardy enter na końcu wszystkiego. Tyczy się *także nagłówków*.
