@@ -1,0 +1,17 @@
+---
+layout: default
+title: Krótki test textile
+---
+h2. Zobaczmy jak się to zachowuje, gdy bawimy się textile
+
+To powinien być paragraf. Taki zwykły. Spróbujmy może wpisać parę linijek tekstu, *pogrubić co nieco*, częśc może napisać z _emfazą_, itd. itp. A potem zbadamy wady i zalety.
+
+h3. Wady i zalety textile
+
+  * Nie bardzo lubię jak coś mi miesza w tekście, ale nic to
+  * Zasadniczo składanie rzeczywiscie sprawia, że da się czytać źródło w textile jak normalny plik
+  	** bo to trochę normalny plik przypomina
+  	** wcięcia i tak dalej
+  * Brak syntaxu w vimie. Ale to chyba nie problem, da się zrobić
+
+Ok. To by było na razie na tyle
