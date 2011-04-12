@@ -1,13 +1,13 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html>
-  <head>
-	  <title>Witaj na luzem hub pages</title>
-	  <meta charset="utf-8"/>
-  </head>
-  <body>
-    <h1>Hello luzem</h1>
-    <p>Na hub pages sprawdzamy o co chodzi</p>
-    <p>na razie</p>
-    <p>Najwyraźniej haml rozkłada to niestety</p>
-  </body>
-</html>
+---
+title: Strona główna
+---
+<h2>Co nowego?</h2>
+<ul>
+	{% for post in site.posts limit:5 %}
+	<li>
+		<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+		{{ post.content }}
+		<p>Opublikowano {{ post.date | date_to_long_string }}.</p>
+	</li>
+	{% endfor %}
+</ul>
