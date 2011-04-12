@@ -8,10 +8,13 @@ To powinien być paragraf. Taki zwykły. Spróbujmy może wpisać parę linijek 
 
 h3. Wady i zalety textile
 
-  * Nie bardzo lubię jak coś mi miesza w tekście, ale nic to
-  * Zasadniczo składanie rzeczywiscie sprawia, że da się czytać źródło w textile jak normalny plik
-  ** bo to trochę normalny plik przypomina
-  ** wcięcia i tak dalej
-  * Brak syntaxu w vimie. Ale to chyba nie problem, da się zrobić
+* Nie bardzo lubię jak coś mi miesza w tekście, ale nic to
+* Zasadniczo składanie rzeczywiscie sprawia, że da się czytać źródło w textile jak normalny plik
+** bo to trochę normalny plik przypomina
+** wcięcia i tak dalej
+* Brak syntaxu w vimie. Ale to chyba nie problem, da się zrobić
 
 Ok. To by było na razie na tyle
+
+h3. Wow Textile z pluginem do składni jest very funny
+Wgrałem sobie plugin ze składnią do textile. Chyba staje się to moim ulubionym filtrem robiącym HTML. Podsumowując. Do layoutów na razie chyba HAML a do contentu *textile*. 
